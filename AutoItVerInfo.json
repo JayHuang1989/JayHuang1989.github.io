@@ -1,0 +1,17 @@
+[
+    {
+        "ProgramID": "VocherWizard_PQ",
+        "Version": "24.9.13CN",
+        "Log": "新增:\r\n) 上月底與今日切換按鈕"
+    },
+    {
+        "ProgramID": "VocherWizard_TW",
+        "Version": "24.9.13TW",
+        "Log": "新增:\r\n) 上月底與今日切換按鈕"
+    },
+    {
+        "ProgramID": "ArchiveWizard",
+        "Version": "24.9.12",
+        "Log": "新增:\r\n) 滑鼠點擊功能(指定座標)"
+    }
+]
